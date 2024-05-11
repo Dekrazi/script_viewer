@@ -12,7 +12,7 @@ import (
 // cspell: disable
 
 // CHANGE THE DIRECTORY OF YOUR SCRIPTS FOLDER
-var scriptsFolder string = "/home/dekrazi/.config/my_scripts/"
+var scriptsFolder string = "/home/username/my_scripts/"
 
 // cspell: enable
 

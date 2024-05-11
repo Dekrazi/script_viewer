@@ -11,7 +11,7 @@ This Go program, `Script Viewer`, lists files within a specified directory along
    - **Download the Source Code**:
      - Clone this repository to your local machine:
        ```shell
-       git clone https://github.com/yourusername/yourrepository.git
+       git clone https://github.com/Dekrazi/script_viewer.git
        ```
    - **Configure Scripts Folder**:
      - Open the `main.go` file in your preferred text editor.
