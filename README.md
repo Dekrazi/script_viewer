@@ -25,7 +25,7 @@ This Go program, `Script Viewer`, lists files within a specified directory along
        ```
 2. **Use Provided Binary**:
    - If you prefer not to build from source, you can use the provided binary.
-     - Download the binary from the [releases page](https://github.com/yourusername/yourrepository/releases).
+     - Download the binary from [this page](https://github.com/Dekrazi/script_viewer/blob/main/script_viewer).
      - Ensure the binary is executable:
        ```shell
        chmod +x script_viewer
