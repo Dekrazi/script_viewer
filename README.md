@@ -1,6 +1,8 @@
-### README.md
+## Script Manager
 
-#### Script Manager
+#### Note
+- Ensure that the directory specified in `scriptsFolder` is accessible and contains the files you want to list.
+- This program assumes that the last line of each file contains meaningful information. If this is not the case for your files, you may need to modify the `readLastLineAsDesc` function to suit your needs.
 
 #### Description
 This Go program, `Script Viewer`, lists files within a specified directory along with the last line of each file as it's description.
@@ -43,9 +45,7 @@ Suppose you have script files in `/home/user/scripts/` and you want to see the l
 
 Write short description at the last line of each script file to get brief info about it in Script Viewer.
 
-#### Note
-- Ensure that the directory specified in `scriptsFolder` is accessible and contains the files you want to list.
-- This program assumes that the last line of each file contains meaningful information. If this is not the case for your files, you may need to modify the `readLastLineAsDesc` function to suit your needs.
+
 
 #### License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it according to your requirements.
