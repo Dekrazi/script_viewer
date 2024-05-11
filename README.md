@@ -50,4 +50,4 @@ Write short description at the last line of each script file to get brief info a
 #### License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it according to your requirements.
 
-For any issues or suggestions, please open an [issue](https://github.com/yourusername/yourrepository/issues) on GitHub. Contributions are welcome!
+For any issues or suggestions, please open an [issue](https://github.com/Dekrazi/script_viewer/issues) on GitHub. Contributions are welcome!
